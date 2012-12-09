@@ -19,4 +19,4 @@
 # DEALINGS IN THE SOFTWARE.
 
 __appname__ = 'chatham'
-__version__ = '1.0~pre1'
+__version__ = '1.0~pre2'
